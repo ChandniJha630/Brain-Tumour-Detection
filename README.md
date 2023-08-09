@@ -1,1 +1,1 @@
-# Indian-Sign-Language-Detection
+# Brain Tumour Detection
